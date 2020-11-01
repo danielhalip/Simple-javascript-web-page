@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Music mix</title>
+</head>
+
+<body background="file:///E:/Javascript/test/background.png">
+
+<center><h1>Best music mix | GAMING MIX | NO-COPYRIGHT MUSIC</h1></center>
+	<center><audio src="file:///E:/Javascript/test/Best%20Music%20Mix%20No%20Copyright%20Gaming%20Music%20Music%20by%20Roy%20Knox%20and%20Friends.mp3" controls loop></audio></center>
+
+</body>
+</html>
